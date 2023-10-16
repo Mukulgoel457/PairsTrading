@@ -4,6 +4,6 @@ This project, titled "Pair's Trading Analysis and Choosing Stratergy" was presen
 # Presentation and Colab Notebook
 The presentation slides for this project provide an overview of the approach, methodologies, and achieved results. Additionally, the project's code was developed and documented in a Colab Notebook, which enabled seamless collaboration and access to the data analysis and modeling procedures.
 # Repository Contents
-* Quant_PS : The problem statement provided to us by the club.
-* IIT-GUWAHATI.pdf : Presentation Slides.
+* Quant_PS.pdf : The problem statement provided to us by the club.
+* IIT GUWAHATI-2.pdf : Presentation Slides.
 * pair_identification.ipynb : Colab Notebook containing the Python Code for data analysis and graphs with all the methodologies used in the presentation file.
